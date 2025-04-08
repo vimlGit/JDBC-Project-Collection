@@ -36,3 +36,24 @@ Here are the topic-wise folders included in this repository:
 
 1. Clone the repository:
 https://github.com/vimlGit/JDBC-Project-Collection
+
+2. Open the desired project in your preferred IDE.
+3. Configure your database connection (DB URL(jdbc:oracle:thin:@localhost:1521:xe), username, password).
+4. Run the `main()` method to execute the application.
+
+✅ Ensure your Oracle database service is running and schema is set up before execution.
+
+## 🎯 Purpose
+
+This repository is designed for learning and practicing JDBC concepts. It serves as a reference for freshers, students, or anyone interested in backend database connectivity with Java.
+
+## 👤 Author
+
+**Vimlesh Kumar Singh**  
+Java Backend Developer | Focused on JDBC, Servlets, Spring Boot  
+[LinkedIn Profile](https://www.linkedin.com/in/vimlesh-singh-71144a277/
+
+## 📄 License
+
+This repository is open-source and free to use for learning and educational purposes.
+
